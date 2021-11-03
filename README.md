@@ -4,5 +4,5 @@
 
 Here is my lab Dagriam 
 
-![](Hayder.com-Dagrim.jpg)
+![](Hayder.com-Diagram.jpg)
 

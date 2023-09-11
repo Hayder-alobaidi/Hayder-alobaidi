@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hayder Alobaidi
 - 👀 I’m interested in Information Security and Systems Engineering 
-- 🌱 When I have free time I like to work on my Lab 
+- 🌱 When I have free time I like to work on my Labs
 
-Here is my lab Dagriams:
+Please feel free to explore my project repositories for more details about my labs. Here are my lab diagrams:
 
 ## PROJECT 1 ( EKS + Argocd with Jenkins GitOps GitHub Pipeline )
 ![project diagram](https://github.com/Hayder-alobaidi/Hayder-alobaidi/assets/93683931/929f5206-8ea5-4758-83a7-6f42311f0075)             

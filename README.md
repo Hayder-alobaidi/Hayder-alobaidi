@@ -4,7 +4,15 @@
 
 Please feel free to explore my project repositories for more details about my labs. Here are my lab diagrams:
 
-## PROJECT 1 ( EKS + Argocd with Jenkins GitOps GitHub Pipeline )
+## PROJECT 1 ( EKS + Argocd with Jenkins GitOps GitHub Pipeline 
+### Reposiotries used in this porject : 
+
+[P1-GitOps-Terrform](https://github.com/Hayder-alobaidi/P1-GitOps-Terrform)
+
+[P1-Web-app-source-code](https://github.com/Hayder-alobaidi/P1-Web-app-source-code)
+
+[P1-kubernetes_manifest](https://github.com/Hayder-alobaidi/P1-kubernetes_manifest)
+
 ![project diagram](https://github.com/Hayder-alobaidi/Hayder-alobaidi/assets/93683931/929f5206-8ea5-4758-83a7-6f42311f0075)             
 
 

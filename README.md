@@ -4,6 +4,14 @@
 
 Please feel free to explore my project repositories for more details about my labs. Here are my lab diagrams:
 
+## PROJECT 1  Quote Of The Day Microservices App on k8s:
+### Reposiotries used in this porject : 
+
+[P2-quote_of_the_day_app-k8s](https://github.com/Hayder-alobaidi/P2-quote_of_the_day_app-k8s)
+
+![quote_of_the_day_app_digram](https://github.com/Hayder-alobaidi/Hayder-alobaidi/assets/93683931/dbd01a1c-7665-47bb-8807-9d2c33ac1d43)
+
+
 ## PROJECT 1 ( EKS + Argocd with Jenkins GitOps GitHub Pipeline 
 ### Reposiotries used in this porject : 
 

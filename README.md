@@ -4,7 +4,7 @@
 
 Please feel free to explore my project repositories for more details about my labs. Here are my lab diagrams:
 
-## PROJECT 1 : Quote Of The Day Microservices App on k8s:
+## PROJECT 1 : Quote Of The Day Microservices App On Kubernetes:
 ### Reposiotries used in this porject : 
 
 [P2-quote_of_the_day_app-k8s](https://github.com/Hayder-alobaidi/P2-quote_of_the_day_app-k8s)
